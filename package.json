@@ -1,0 +1,19 @@
+{
+  "name": "ra-data-suitecrm-json-api",
+  "version": "1.0.0",
+  "description": "Maps react-admin queries to a SuiteCRM powered JSON API",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyam-singh/ra-data-suitecrm-json-api.git"
+  },
+  "author": "Shyam Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shyam-singh/ra-data-suitecrm-json-api/issues"
+  },
+  "homepage": "https://github.com/shyam-singh/ra-data-suitecrm-json-api#readme"
+}
